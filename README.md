@@ -7,3 +7,4 @@ Silahkan gunakan format berikut :<br>
 
 Berikut adalah daftar volunter yang diterima :
 * Radinda Putri, [oo,or,id](https://oo.or.id).
+* Shafa Athalia, [Github](https://github.com/blubbiess).
